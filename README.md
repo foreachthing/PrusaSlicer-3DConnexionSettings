@@ -7,7 +7,7 @@ Configuration in this `.3dxz` file:
 
 ## Installation
 1. Download the `.3dxz` file.
-1. Open 3DConnxtion Properties window
+1. Open 3DConnexion Properties window
 1. Click `More > Import Settings`
 1. Choose the downloaded `.3dxz` file.
 1. Open Prusa Slicer and clicke `Menu` on your device.
